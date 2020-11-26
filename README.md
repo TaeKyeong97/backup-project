@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://raw.githubusercontent.com/TaeKyeong97/backup-project/a58272e80fa6f22d08949919f927a79f2aea5604/status/project-svg.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://raw.githubusercontent.com/TaeKyeong97/backup-project/5baba5476e1367c56ea4661567d074d2eddb8f8f/status/project-svg.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">프로젝트 총 관리 시스템</h2>
  <p align="center">[졸업작품] 프로젝트 총 관리 시스템</p>
 </p>
