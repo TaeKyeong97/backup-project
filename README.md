@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/TaeKyeong97/backup-project/actions/new">
-    <img alt="Tests Passing" src="https://raw.githubusercontent.com/TaeKyeong97/backup-project/3807cd8073836db3e581877d72955a5011cb1598/status/tag/badge-Test.svg" />
+    <img alt="Tests Passing" src="https://raw.githubusercontent.com/TaeKyeong97/backup-project/8d1748c07c7524f1d1a8b4e04dfdebe1f192f949/status/tag/badge-Test.svg" />
   </a>
   <a href="https://github.com/TaeKyeong97/backup-project/issues">
     <img alt="Issues" src="https://img.shields.io/github/issues/TaeKyeong97/backup-ops?color=0088ff" />
